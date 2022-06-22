@@ -1,6 +1,6 @@
 autopep8==1.5
 dlib==19.19.0
-numpy==1.18.1
+numpy==1.22.0
 opencv-python==4.2.0.32
 opencv-python-headless==4.2.0.32
 pycodestyle==2.5.0
